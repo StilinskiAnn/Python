@@ -30,7 +30,7 @@ print(len(my_name))
 #my_name = int(input("ввод:"))
 #my_name1 = float(input("ввод:"))
 #print("привет "+my_name)
-print(5 + my_name1)
+# print(5 + my_name)
 # все что введу в input  на выходе строка
 
 # Конкатенация это сложение/склеивание строк
